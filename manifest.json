@@ -1,8 +1,8 @@
 {
     "short_name": "PWA App",
     "name": "Hello PWA World App",
-    "theme_color":"",
-    "background_color":"",
+    "theme_color":"#6a1b9a",
+    "background_color":"#64dd17",
     "display":"standalone",
     "orientation": "landscape",
     "scope":"/",
