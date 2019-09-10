@@ -30,7 +30,7 @@ const requestServer = (() => {
 
     return initObj;
   };
-  let NWApiUrl = "http://edmiraya.dynu.net:10080/";
+  let NWApiUrl = "https://edmiraya.dynu.net/";
   const getAbsolutePath = relativeUrl => {
     const urlBase = NWApiUrl;
     //const urlBase = window.sessionStorage.getItem("urlBase");
